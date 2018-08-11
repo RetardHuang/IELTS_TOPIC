@@ -1,0 +1,31 @@
+Topic Tall_Building{
+    
+    Where Shanghai Central Tower;
+
+    Location{
+        Lujiazui Block -> FINACIAL HUB ;
+        towered BY the HuangPu River;
+    };
+    Appearance{
+        600 meters high->
+        Tallest in China;
+        FANCY EXTERIOR-> 
+        it is glass WARPPED, shaped like a chinmney;
+        LIGHT AND AIRY;
+    };
+    Environmental friendly Building{
+        Wind power generating system
+        ->use power generated from wind;
+        Rainwater gathering system
+        ->use water from the rain;
+    };
+    My feeling{
+        Last summer 
+        -> BEEN to this tower;
+        I love the place which is high 
+        ->get the overlook of a city;
+        It was breathtaking and spetecular;
+        here WAS just 
+        A STONE'S THROW AWAY FROM THE CLOUD 
+    };
+};        
