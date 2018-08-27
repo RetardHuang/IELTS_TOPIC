@@ -1,15 +1,22 @@
 Topic clothes{
-    TAILCOATS;
+    TAILCOAT;
     What the occasion{
         Two months ago,
-        playED the piano for a concerto;
-        I have to wear in a formal style;
+        playED the piano on a concerto;
+        I had to wear in a formal style;
         Actually ..WAS THE first time  
-        You know();
+        You know
+        Normally , when play in concerto, I would choose suit and tie.
         Literally CLUMSY ;
-        
     }
 
-    What you WORE{}
-
+    What you WORE{};
+    Where I got it{
+           Actually, I RENT it from a clothing shop ->
+           because I won't wear this kind of bulky dress in daily life. It is overpriced for me. 
+    }
+    What other people thought{
+        After my performance, the audiences are quite  
+    }
+    I feel quite good to 
 }
